@@ -1,21 +1,22 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Projects: /projects/
+    About: /about/
+    GitHub: https://github.com/crowser
     Rss: /atom.xml
 
 favicon: /favicon.png
-logo: /favicon.png
+logo: /logo.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
-duoshuo:
+disqus: crowsers-blog
+# duoshuo:
 
 # Analytics
 # google-analytics:
-# ga: UA-xxxxxxxx-x
+ga: UA-120220174-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2018
